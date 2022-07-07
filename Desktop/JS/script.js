@@ -14,3 +14,8 @@ console.log("A" + "B" + "C");
 
 console.log("3" + "5");
 console.log(3 + 5);
+
+let name = "John";
+console.log(name);
+console.log("name");
+
