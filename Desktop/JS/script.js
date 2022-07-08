@@ -19,3 +19,6 @@ let name = "John";
 console.log(name);
 console.log("name");
 
+console.log(name + "さん");
+let number = 11;
+console.log(number + 5);
