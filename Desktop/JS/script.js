@@ -22,3 +22,11 @@ console.log("name");
 console.log(name + "さん");
 let number = 11;
 console.log(number + 5);
+
+number = 7;
+console.log(number);
+number = 9;
+console.log(number);
+number = 10;
+console.log(number);
+
