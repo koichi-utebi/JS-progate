@@ -29,4 +29,8 @@ number = 9;
 console.log(number);
 number = 10;
 console.log(number);
+number = number + 3;
+console.log(number);
+number += 3;
+console.log(number);
 
