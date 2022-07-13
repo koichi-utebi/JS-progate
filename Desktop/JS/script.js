@@ -34,3 +34,6 @@ console.log(number);
 number += 3;
 console.log(number);
 
+const owner = "John";
+console.log(owner);
+
