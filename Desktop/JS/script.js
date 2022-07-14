@@ -36,4 +36,5 @@ console.log(number);
 
 const owner = "John";
 console.log(owner);
+console.log(`こんにちは、${owner}さん`);
 
