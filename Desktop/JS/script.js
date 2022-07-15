@@ -64,3 +64,16 @@ if (integer > 20) {
 if (integer >= 10 && integer < 100) {
   console.log("数字は2桁です");
 }
+
+const color ="赤";
+switch (color) {
+  case "赤":
+    console.log("ストップ！");
+    break;
+  case "黃":
+    console.log("要注意");
+    break;
+  default:
+    console.log("通行可");
+    break;
+}
