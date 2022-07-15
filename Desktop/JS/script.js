@@ -47,3 +47,8 @@ console.log(integer < 30);
 console.log(integer <= 12);
 console.log(integer > 12);
 
+if (integer > 20) {
+  console.log("数字は20より大きいです");
+} else {
+  console.log("数字は20以下です");
+}
