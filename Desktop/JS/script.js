@@ -38,3 +38,9 @@ const owner = "John";
 console.log(owner);
 console.log(`こんにちは、${owner}さん`);
 
+const integer = 12;
+if (integer > 10) {
+  console.log("数字は10より大きいです");
+}
+
+
