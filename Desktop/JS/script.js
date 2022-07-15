@@ -52,3 +52,15 @@ if (integer > 20) {
 } else {
   console.log("数字は20以下です");
 }
+
+if (integer > 20) {
+  console.log("数字は20より大きいです");
+} else if(integer > 10) {
+  console.log("数字は10より大きいです");
+} else {
+  console.log("数字は10以下です");
+}
+
+if (integer >= 10 && integer < 100) {
+  console.log("数字は2桁です");
+}
