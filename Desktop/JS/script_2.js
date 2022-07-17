@@ -74,7 +74,7 @@ const cafe = {
   businessHours: {
     opening: "10:00(AM)",
     closing: "8:00(PM)"
-  }
+  },
   menus: ["コーヒー", "紅茶", "チョコレートケーキ"]
 };
 
